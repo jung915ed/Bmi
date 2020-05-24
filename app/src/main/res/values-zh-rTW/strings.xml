@@ -8,4 +8,5 @@
     <string name="height">身高</string>
     <string name="cal_bmi">計算</string>
     <string name="help">支援</string>
+    <string name="ur_bmi_result">"您的BMI值 "</string>
 </resources>
